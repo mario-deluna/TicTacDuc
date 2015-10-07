@@ -17,3 +17,5 @@ You can train the computer by simply executing the `train-rand.php` file.
 ```bash
 $ php train-rand.php
 ```
+
+Proababilty is updated by: `p / (1 + p )`
